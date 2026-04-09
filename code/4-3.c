@@ -10,7 +10,7 @@ int main() {
     if (index < 5) {
         printf("%d", arr[index]);
     }
-    else { printf("%s", " Error!") }
+    else { printf("%s", " Error!"); }
 
     return 0;
 }
